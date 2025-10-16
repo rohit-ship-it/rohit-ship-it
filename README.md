@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rohit Ravindra Jagtap  
+# Hi 👋, I'm Rohit  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+Enthusiast;Problem+Solver;Lifelong+Learner" alt="Typing SVG" />
