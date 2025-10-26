@@ -7,7 +7,7 @@ En
 ---
 
 ## 🔥 About Me  
-- 🌱 Currently sharpening my **React, ASP.NET, and Tailwind** Front end skills  
+- 🌱 Currently sharpening my  Front end skills  
 - 💼 1+ year of experience as a **Frontend Developer**  
 - 🏢 Worked at **Novius Railtech** and **Twinkle IT Solutions**  
 - 🎯 Goal: To contribute to impactful projects as a **Frontend Developer**  
